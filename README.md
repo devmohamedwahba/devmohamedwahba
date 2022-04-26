@@ -2,7 +2,7 @@
 <h3 align="center">A Professional Software Engineer</h3>
 
 
-- 🔭 I’m currently working at **ET3**
+- 🔭 I’m currently working at **Trufla**
 
 - 🌱 I’m currently learning **Node Js**
 
