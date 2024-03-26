@@ -2,11 +2,11 @@
 <h3 align="center">A Professional Software Engineer</h3>
 
 
-- 🔭 I’m currently working at **Trufla**
+- 🔭 I’m currently working at **VOIS**
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **FAST API**
 
-- 💬 Ask me about **Python ,Django ,Flask ,PHP, Laravel**
+- 💬 Ask me about **Python ,Django ,Flask**
 
 - 📫 How to reach me **devmohamedwahba@gmail.com**
 
